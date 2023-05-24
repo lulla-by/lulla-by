@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20My%20Github&fontSize=75&fontColor=748ffc&desc=Hello%20I'm%20Yesol&descAlignY=70&descSize=30)
 
-### 👋 Hi I'm yesol!
+### 👋 Hi! I'm yesol!
  <div>Hello, I'm YESOL. I want to be a front-end developer.</div>
  <div> I have project experience using JavaScript and React.</div>
  <div>I am studying to be a good developer.</div>
