@@ -13,6 +13,7 @@
  <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/>
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
    </div>
  <div>
@@ -38,11 +39,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulla-by&show_icons=true&theme=transparent)
   
  
- ### 🌟 Final project 
- #### 🦁 In LikeLion
- https://github.com/Likelion-lucky7/DECO
+ ### 🌟 Projects
+ #### 🎞 MovieDog
+ https://movie-dog.vercel.app/
 
+ #### 📆 Mycalendar
+ https://mycalendar-eight.vercel.app/
+
+ #### 🌈 Weather
+ https://github.com/lulla-by/Weather_TS
  
- #### 🚣‍♂️ In innovation camp
+ #### 🚣‍♂️ Eng-Fluencer
  https://github.com/Eng-Fluencer
   </div>
