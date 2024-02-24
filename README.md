@@ -3,7 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20my%20Github&fontSize=75&fontColor=748ffc&desc=Hello%20I'm%20Yesol&descAlignY=70&descSize=30)
 
 ### 👋 Hi! I'm yesol!
- <div>Hello, I'm YESOL. I want to be a front-end developer.</div>
+ <div>안녕하세요! 프론트엔드 개발자 이예솔입니다.</div>
+ <div>저는 자바스크립트와 타입스크립트, 리액트를 활용한 개발 경험이 있습니다.</div>
+ <div>저는 좋은 개발자가 되기 위해 공부하고 있습니다.</div>
+ <div>감사합니다.</div>
+
+ 
+ <div>Hello, I'm YESOL. I'm front-end developer.</div>
  <div> I have project experience using JavaScript and React.</div>
  <div>I am studying to be a good developer.</div>
  <div>Thank you.</div>
